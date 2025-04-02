@@ -1,2 +1,2 @@
-# Cs2Cheats
+# ValorantCheats
 Counter-Strike 2 cheats 
